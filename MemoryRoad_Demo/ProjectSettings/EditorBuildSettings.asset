@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MemoryRoad_DemoScene/0-TitleScene.unity
+    guid: 3e96bca8f7848154792c9794b461cace
+  - enabled: 1
     path: Assets/Scenes/MemoryRoad_DemoScene/Id-1.unity
     guid: 35a2efb39dc0b4c49990e822af3cab61
   - enabled: 1
